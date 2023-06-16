@@ -1,0 +1,11 @@
+# ポート
+port: 8080
+file:
+  # ここに「URI: ファイルパス」の対応を記述
+  eula: eula.txt
+  properties: server.properties
+mime:
+  # ここに「拡張子: MIMEタイプ」の対応を記述
+  yml: text/yaml
+  json: application/json
+  txt: text/plain

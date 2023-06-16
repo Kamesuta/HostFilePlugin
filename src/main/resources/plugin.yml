@@ -1,0 +1,4 @@
+name: HostFilePlugin
+version: '${project.version}'
+main: com.kamesuta.hostfileplugin.HostFilePlugin
+api-version: 1.16
